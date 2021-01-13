@@ -1,5 +1,3 @@
-Good Afternoon/Morning/Evening Dr. Powell,
-
 I created this program using C/C++ on Visual Studio Code and used my gcc compilier on ubuntu 20.8 to compile this application on my command line. 
 
 For Ubuntu Command Line, I had to navigate to my directory where I held the application, CookieRecipe, and used the command "./" to run it. 
