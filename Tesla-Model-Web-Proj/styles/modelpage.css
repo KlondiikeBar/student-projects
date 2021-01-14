@@ -1,3 +1,22 @@
-hp-l {
+#hp-l {
     text-align: center;
+}
+
+#navBox {
+    display: block;
+    text-align: center;
+    border-bottom-style: solid; 
+    border-bottom-color: red;
+    border-bottom-width: 5px; 
+    position: relative;
+    top: 5%; bottom: 5%; left: 0; right: 0;
+    
+}
+
+#navLink {
+    
+    text-align: center;
+    font-size: medium;
+    padding-left: 10px;
+    padding-right: 10px;
 }
