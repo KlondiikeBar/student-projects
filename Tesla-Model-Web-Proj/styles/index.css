@@ -1,0 +1,61 @@
+#navBox {
+    display: block;
+    text-align: center;
+    border-bottom-style: solid; 
+    border-bottom-color: red;
+    border-bottom-width: 5px; 
+    position: relative;
+    top: 5%; bottom: 5%; left: 0; right: 0;
+    
+}
+
+#navLink {
+    
+    text-align: center;
+    font-size: medium;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#TeslaLogo {
+
+    display: block;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 5%; bottom: 5%; left: 0; right: 0;
+    
+}
+
+.text-center {
+
+    text-align: center;
+
+}
+
+#Model-S{
+
+    width: 750px;
+
+}
+
+#info-model-3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#info-model-s {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#info-model-x {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#info-model-y {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.info-header {
+    text-align: center;
+}
