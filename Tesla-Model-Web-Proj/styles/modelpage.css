@@ -49,3 +49,26 @@
     width: 750px;
 
 }
+
+#model{
+
+    text-align: left;
+    padding-left: 150px;
+    
+}
+
+#range {
+  padding-left: 25px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#text-body {
+    padding-left: 25px;
+}
+
+#specs {
+    padding-left: 25px;
+}
